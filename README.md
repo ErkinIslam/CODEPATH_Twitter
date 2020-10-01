@@ -23,9 +23,9 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://www.youtube.com/watch?v=6ORgqWzc9Kw&list=PLrT2tZ9JRrf76ZFzfHPBNTUnmROWmxTYD&index=1' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://www.youtube.com/watch?v=6ORgqWzc9Kw&list=PLrT2tZ9JRrf76ZFzfHPBNTUnmROWmxTYD&index=1
 
 
-### GIF
+### GFI
 
 <img src="https://media.giphy.com/media/XB0uQAoWg5IbkfwvGb/giphy.gif" width=250><br>

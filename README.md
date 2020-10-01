@@ -26,6 +26,6 @@ Here's a walkthrough of implemented user stories:
 https://www.youtube.com/watch?v=6ORgqWzc9Kw&list=PLrT2tZ9JRrf76ZFzfHPBNTUnmROWmxTYD&index=1
 
 
-### GFI
+### GIF
 
 <img src="https://media.giphy.com/media/XB0uQAoWg5IbkfwvGb/giphy.gif" width=250><br>

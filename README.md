@@ -26,10 +26,11 @@ https://www.youtube.com/watch?v=POOoc6-f74Y&list=PLrT2tZ9JRrf4IqeLFVvgp9CgEyAYM9
 
 ### GIF
 
-
 <img src="https://media.giphy.com/media/o3HD7m5hAt2mn8FtM1/giphy.gif" width=250><br>
 
-
+#### Notes
+It was a little annoying following the instructions for this project because the instructor from the previous Assignment and this previous were using different names fro some variables. Also Monika had the bonus parts built from the previous project which I did not.
+But other than these the project went pretty smooth. I hope I did good.
 
 
 

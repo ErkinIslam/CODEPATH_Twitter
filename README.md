@@ -24,7 +24,7 @@ Here's a walkthrough of implemented user stories:
 
 https://www.youtube.com/watch?v=POOoc6-f74Y&list=PLrT2tZ9JRrf4IqeLFVvgp9CgEyAYM98D-&index=1
 
-###GIF
+### GIF
 
 
 <img src="https://media.giphy.com/media/o3HD7m5hAt2mn8FtM1/giphy.gif" width=250><br>
